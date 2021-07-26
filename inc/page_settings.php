@@ -143,7 +143,7 @@ function ma_discount_settings_shortcode_cbf($args)
 	?>
     <input type="hidden" name="ma_discount_opts[<?php echo esc_attr($args['name']); ?>]"
            id="<?php echo esc_attr($args['label_for']); ?>"
-           value="<h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1><h1>shortcode</h1>">
+           value="<h1>shortcode</h1>">
     <label><?php if (isset($opts[$args['name']])) {
         echo esc_html(($opts[$args['name']]));
     } ?>
