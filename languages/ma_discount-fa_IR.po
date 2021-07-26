@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: discount\n"
+"POT-Creation-Date: 2021-07-25 08:20+0430\n"
+"PO-Revision-Date: 2021-07-25 08:20+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ma_discount.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class/ma_discount_post_type.php:22
+msgid "Discount ID"
+msgstr "آی دی تخفیف"
+
+#: class/ma_discount_post_type.php:27
+msgid "Show After Finish Discount In The Carousel "
+msgstr "مشاهده محصول بعد از اتمام تخفیف در کروسل"
+
+#: class/ma_discount_post_type.php:32 class/ma_discount_post_type.php:116
+#: inc/page_logs.php:12 inc/post_type.php:75 inc/post_type.php:96
+msgid "Product"
+msgstr "محصول"
+
+#: class/ma_discount_post_type.php:36
+msgid "Discount Date"
+msgstr "تاریخ تخفیف"
+
+#: class/ma_discount_post_type.php:40
+msgid "Discount Percent"
+msgstr "درصد تخفیف"
+
+#: class/ma_discount_post_type.php:63
+msgid "Show Product"
+msgstr "مشاهده محصول"
+
+#: class/ma_discount_post_type.php:86
+msgid "Show Number of Day in Carousel"
+msgstr "نمایش تعداد روز در کروسل"
+
+#: class/ma_discount_post_type.php:121
+msgid "Please select one of the products"
+msgstr "لطفا یکی از محصولات را انتخاب کنید"
+
+#: class/ma_discount_post_type.php:153
+msgid "Product Price"
+msgstr "قیمت محصول"
+
+#: class/ma_discount_post_type.php:173
+msgid "Product Image"
+msgstr "عکس محصول"
+
+#: class/ma_discount_post_type.php:198
+msgid "Start Date Discount"
+msgstr "تاریخ شروع تخفیف"
+
+#: class/ma_discount_post_type.php:211
+msgid "End Date Discount"
+msgstr "تاریخ پایان تخفیف"
+
+#: class/ma_discount_post_type.php:237
+msgid "Product Discount Percent"
+msgstr "درصد تخفیف محصول"
+
+#: class/ma_discount_post_type.php:361
+msgid "Post title can't be less than 5 characters."
+msgstr "عنوان تخفیف نمیتواند کمتر از 5 حرف باشد"
+
+#: class/ma_discount_post_type.php:372
+msgid "Post Product can't be null."
+msgstr "محصول نمیتواند خالی باشد"
+
+#: class/ma_discount_post_type.php:390
+msgid "Post Start Date Discount can't be elder End Date Discount."
+msgstr "تاریخ شروع تخفیف نمیتواند بزرگتر از تاریخ پایان باشد"
+
+#: class/ma_discount_post_type.php:401
+msgid "Post End Date Discount can't be less Current Date."
+msgstr "تاریخ پایان تخفیف نمیتواند کوچکتر از تاریخ جاری باشد"
+
+#: inc/admin.php:8
+msgid "WPlugin activated."
+msgstr "پلاگین تخفیف دهی فعال شد"
+
+#: inc/admin.php:11
+msgid "Welcome to The Discount Plugin. Please Add Discount For Product."
+msgstr ""
+"به پلاگین تخفیف دهی خوش آمدید! لطفا جهت استفاده از برای محصول خود تخفیف "
+"اختصاص دهید."
+
+#: inc/page.php:9 inc/page.php:10 inc/page.php:29
+msgid "Logs"
+msgstr "گزارشات"
+
+#: inc/page.php:17 inc/page.php:18 inc/page.php:30
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/page.php:28 inc/post_type.php:5 inc/post_type.php:7
+msgid "Discounts"
+msgstr "تخفیف دهی"
+
+#: inc/page_logs.php:7
+msgid "All Logs"
+msgstr "همه گزارشات"
+
+#: inc/page_logs.php:14
+msgid "Created date"
+msgstr "تاریخ ایجاد"
+
+#: inc/page_logs.php:16
+msgid "Sell date"
+msgstr "تاریخ فروش"
+
+#: inc/page_logs.php:18
+msgid "Purchaser name"
+msgstr "نام خریدار"
+
+#: inc/page_logs.php:20
+msgid "Discount percent"
+msgstr "درصد تخفیف"
+
+#: inc/page_logs.php:22
+msgid "Sell price"
+msgstr "قیمت فروش"
+
+#: inc/page_settings.php:11
+msgid "Settings Discount"
+msgstr "تنظیمات تخفیف"
+
+#: inc/page_settings.php:17
+msgid "User"
+msgstr "کاربر"
+
+#: inc/page_settings.php:30
+msgid "Carousel Image"
+msgstr "عکس کروسل"
+
+#: inc/page_settings.php:43
+msgid "ShortCode"
+msgstr "شورت کد"
+
+#: inc/page_settings.php:87
+msgid ""
+"Select one of the users as a buyer after the expiration date of the discount "
+"which will be displayed in the front part of the site. Select a carousel "
+"image  to be displayed as a carousel when the discount is created. And short "
+"code that you can use anywhere on the site."
+msgstr ""
+"انتخاب یکی از کاربرها به عنوان خریدار بعد از تمام شدن تاریخ تخفیف که در قسمت "
+"فرانت سایت نمایش داده خواهد شد. انتخاب عکس کروسل که موقع ای که تخفیف ایجاد "
+"میشه به عنوان کروسل نشان داده شود. و شورت کد که در هر جایی از سایت میتوانید "
+"از آن استفاده کنید"
+
+#: inc/page_settings.php:109
+msgid "Select the user to buy automatically after the end of the discount time"
+msgstr ""
+"انتخاب کاربر برای خرید اتوماتیک محصول تخفیف خورده پس از پایان تاریخ تخفیف"
+
+#: inc/page_settings.php:121
+msgid "Select front carousel image"
+msgstr "انتخاب عکس کروسل فرانت"
+
+#: inc/page_settings.php:143
+msgid "You can place this shortcode anywhere on your site."
+msgstr "می توانید این کد کوتاه را در هر کجای سایت خود قرار دهید"
+
+#: inc/page_settings.php:160
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: inc/post_type.php:6 inc/post_type.php:8
+msgid "Discount"
+msgstr "تخفیف"
+
+#: inc/post_type.php:9
+msgid "Add New"
+msgstr "ایجاد جدید"
+
+#: inc/post_type.php:10
+msgid "Add New Discount"
+msgstr "ایجاد تخفیف جدید"
+
+#: inc/post_type.php:11
+msgid "New Discount"
+msgstr "تخفیف جدید"
+
+#: inc/post_type.php:12
+msgid "Edit Discount"
+msgstr "ویرایش تخفیف"
+
+#: inc/post_type.php:13
+msgid "View Discount"
+msgstr "مشاهده تخفیف"
+
+#: inc/post_type.php:14
+msgid "All Discounts"
+msgstr "همه تخفیف ها"
+
+#: inc/post_type.php:15
+msgid "Search Discounts"
+msgstr "جستجوی تخفیف"
+
+#: inc/post_type.php:16
+msgid "Parent Discount"
+msgstr "درصد تخفیف"
+
+#: inc/post_type.php:17
+msgid "Not Discounts Found"
+msgstr "هیچ تخفیفی پیدا نشد"
+
+#: inc/post_type.php:18
+msgid "Not Discounts Found In Trash"
+msgstr "هیچ تخفیفی در سطل زباله پیدا نشد"
+
+#: inc/post_type.php:22
+msgid "Description"
+msgstr "توضیحات"
+
+#: inc/post_type.php:76 inc/post_type.php:97
+msgid "Price"
+msgstr "قیمت"
+
+#: inc/post_type.php:77 inc/post_type.php:98
+msgid "Discount price"
+msgstr "مبلغ تخفیف"
+
+#: inc/post_type.php:78 inc/post_type.php:99
+msgid "Remaining"
+msgstr "باقی مانده"
+
+#: inc/post_type.php:79 inc/post_type.php:100
+msgid "Status"
+msgstr "وضعیت"
+
+#: inc/post_type.php:80 inc/post_type.php:101
+msgid "Start date"
+msgstr "تاریخ شروع"
+
+#: inc/post_type.php:133
+msgid "This discount is over!"
+msgstr "این تخفیف به پایان رسید"
+
+#: inc/post_type.php:135
+msgid "Days"
+msgstr "روز"
+
+#: inc/post_type.php:148
+msgid "Purchased"
+msgstr "خریداری شد"
+
+#: inc/post_type.php:150
+msgid "Sold"
+msgstr "فروخته شد"
+
+#: inc/post_type.php:152
+msgid "Waiting sale"
+msgstr "در انتظار فروش"
+
+#: ma_discount.php:44
+msgid "You have to Woocommerce plugin install and used discount plugin!"
+msgstr ""
+"شما باید اول پلاگین ووکامرس را نصب کنید سپس از پلاگین تخفیف دهی استفاده کنید"
+
+#. Plugin Name of the plugin/theme
+msgid "discount"
+msgstr "تخفیف"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mohsenabedy.ir"
+msgstr "http://mohsenabedy.ir"
+
+#. Description of the plugin/theme
+msgid ""
+"پلاگین تخفیف دهی برای محصولات تعریف شده در وردپرس تخفیف گذاری میکنه به "
+"اینصورت عمل میکنه که یک محصولی را بهش تخفیف تعریف میکنیم روز اول به همان "
+"اندازه که درصد تخفیف گذاشته شده تخفیف داده میشود و روزهای بعد نیز به تخفیف "
+"داده شده نسبت به روز اول اضافه میشود که در نهایت تاریخ تخفیف تمام شده و این "
+"تخفیف را به سبد خرید خریدار پیشنهادی اضافه میکنم و درنهایت تخفیف برای کالای "
+"مورد نظر تموم می شود"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mohsen abedy"
+msgstr "محسن عابدی"
