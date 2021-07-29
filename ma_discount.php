@@ -69,7 +69,7 @@ class MA_DISCOUNT {
 
 		$table_name      = $wpdb->prefix . 'discount_logs';
 		$charset_collate = $wpdb->get_charset_collate();
-		$sql             = "CREATE TABLE $table_name(
+		$sql             = "CREATE TABLE IF NOT EXISTS $table_name(
 		id int(9) NOT NULL AUTO_INCREMENT,
 		order_id varchar(50) NOT NULL,
 		discount_id varchar(50) NOT NULL,
